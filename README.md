@@ -4,7 +4,7 @@
 
 A few nights ago, I watched a youtube video titled:
 
-        "Can I rebuild this 40 year old 3D camera into a digital one?"
+        [Can I rebuild this 40 year old 3D camera into a digital one?](https://www.youtube.com/watch?v=_aofxbH0elo)
 
 I thought this video would provide source code or maybe a parts list, but all that you could actually see of the camera being made was a picture of parts laid out on a table, a close-up shot of the battery, and a quick scroll-through of most of the code.
 
