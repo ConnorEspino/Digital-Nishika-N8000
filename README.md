@@ -30,6 +30,8 @@ There are many options for Camera Hats, choosing one other than the one chosen i
 
 ###### Cameras
 
+The video says they use 16Mp cameras, but I could not find a Camarray Hat that included these cameras. 
+
 I saw another example of one of these cameras using USB cameras. This most likely won't work the same way or how we'd want it, but it's worth looking more into other options to see what works best for the best cost.
 
 #### Code
