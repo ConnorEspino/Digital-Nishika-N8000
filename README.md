@@ -26,7 +26,7 @@ To my knowledge, these parts should work. However, I am not responsible if you b
 
 ###### Arduino
 
-The current selection of Arduinos may be much more overpowered than is required for this project. I need to spend time looking into using something like a Pi Zero or something similar. 
+The current selection of Raspberry Pis may be much more overpowered than is required for this project. I need to spend time looking into using something like a Pi Zero or maybe even a cheap microcontroller is all you'd need. 
 
 ###### Camera Hats
 
