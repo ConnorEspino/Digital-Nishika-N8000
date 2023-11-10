@@ -24,6 +24,10 @@ The current parts list gives a few options for each part. This is because I have
 
 To my knowledge, these parts should work. However, I am not responsible if you buy parts from this list and they don't end up working together.
 
+###### Arduino
+
+The current selection of Arduinos may be much more overpowered than is required for this project. I need to spend time looking into using something like a Pi Zero or something similar. 
+
 ###### Camera Hats
 
 There are many options for Camera Hats, choosing one other than the one chosen in the video (unclear) may cause certain things in the code to run correctly. These are simple things to fix, but if you don't know how to code then it may be a challenge.
