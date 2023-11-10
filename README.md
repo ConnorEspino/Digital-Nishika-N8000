@@ -43,3 +43,51 @@ I saw another example of one of these cameras using USB cameras. This most likel
 There are a few quick things I could fix about the code to get it all up and running, but I can't spend time or money on it until I start working in 2024.
 
 I want to get this project to the point where you can create and use it like a genuine camera. That is going to take a lot more time as I would have to start from scratch, but is definitely an achievable goal.
+
+
+
+## Resources
+
+[Multi-Camera CamArray - Arducam Wiki](https://docs.arducam.com/Raspberry-Pi-Camera/Multi-Camera-CamArray/Multi-Camera-CamArray/)
+
+[Quick Start Guide for Arducam CamArray HAT Kit - Arducam Wiki](https://docs.arducam.com/Raspberry-Pi-Camera/Multi-Camera-CamArray/quick-start/)
+
+[Quick Start Guide for Multi-Camera Adapter Board - Arducam Wiki](https://docs.arducam.com/Raspberry-Pi-Camera/Multi-Camera-CamArray/Quick-Start-Guide-for-Multi-Adapter-Board/)
+
+
+
+
+
+
+
+[Arduino Panorama Photography with ArduCAM - Arducam](https://www.arducam.com/arduino-panorama-photography-arducam/)
+
+[ArduCAM porting for Raspberry Pi - Arducam](https://www.arducam.com/arducam-porting-raspberry-pi/)
+
+https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/mini/ArduCAM_Mini_4CAM_Capture2SD/ArduCAM_Mini_4CAM_Capture2SD.ino
+
+
+
+[Arducam Mini Multi-Camera Adapter Board for Arduino](https://www.uctronics.com/arducam-mini-multi-camera-adapter-board-for-arduino-raspberry-pi.html)
+
+[Multi-Camera Adapter Board For Arduino - Arducam Wiki](https://docs.arducam.com/Arduino-SPI-camera/Legacy-SPI-camera/Multi-Camera-Adapter-Board-For-Arduino/)
+
+[Arducam Shield Mini 5MP Plus - Arducam Wiki](https://docs.arducam.com/Arduino-SPI-camera/Legacy-SPI-camera/Hardware/Arducam-Shield-Mini-5MP-Plus/)
+
+
+
+
+
+
+
+## Requirements
+
+Minimize cost
+
+Allow pictures to be stored individually, but also stiched together automatically in camera
+
+
+
+## Stretch Goals
+
+Make individual cameras rotate-able for portrait orientation wigglegrams?
