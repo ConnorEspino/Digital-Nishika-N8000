@@ -24,10 +24,6 @@ The current parts list gives a few options for each part. This is because I have
 
 To my knowledge, these parts should work. However, I am not responsible if you buy parts from this list and they don't end up working together.
 
-###### Arduino
-
-The current selection of Raspberry Pis may be much more overpowered than is required for this project. I need to spend time looking into using something like a Pi Zero or maybe even a cheap microcontroller is all you'd need. 
-
 ###### Camera Hats
 
 There are many options for Camera Hats, choosing one other than the one chosen in the video (unclear) may cause certain things in the code to run correctly. These are simple things to fix, but if you don't know how to code then it may be a challenge.
@@ -44,8 +40,6 @@ There are a few quick things I could fix about the code to get it all up and run
 
 I want to get this project to the point where you can create and use it like a genuine camera. That is going to take a lot more time as I would have to start from scratch, but is definitely an achievable goal.
 
-
-
 ## Resources
 
 [Multi-Camera CamArray - Arducam Wiki](https://docs.arducam.com/Raspberry-Pi-Camera/Multi-Camera-CamArray/Multi-Camera-CamArray/)
@@ -54,19 +48,11 @@ I want to get this project to the point where you can create and use it like a g
 
 [Quick Start Guide for Multi-Camera Adapter Board - Arducam Wiki](https://docs.arducam.com/Raspberry-Pi-Camera/Multi-Camera-CamArray/Quick-Start-Guide-for-Multi-Adapter-Board/)
 
-
-
-
-
-
-
 [Arduino Panorama Photography with ArduCAM - Arducam](https://www.arducam.com/arduino-panorama-photography-arducam/)
 
 [ArduCAM porting for Raspberry Pi - Arducam](https://www.arducam.com/arducam-porting-raspberry-pi/)
 
 https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/mini/ArduCAM_Mini_4CAM_Capture2SD/ArduCAM_Mini_4CAM_Capture2SD.ino
-
-
 
 [Arducam Mini Multi-Camera Adapter Board for Arduino](https://www.uctronics.com/arducam-mini-multi-camera-adapter-board-for-arduino-raspberry-pi.html)
 
@@ -74,19 +60,15 @@ https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/mini/ArduCAM_Min
 
 [Arducam Shield Mini 5MP Plus - Arducam Wiki](https://docs.arducam.com/Arduino-SPI-camera/Legacy-SPI-camera/Hardware/Arducam-Shield-Mini-5MP-Plus/)
 
+https://github.com/ArduCAM/Arduino/tree/master/ArduCAM/examples/RaspberryPi
 
-
-
-
-
+[How to use a Raspberry Pi in kiosk mode - Raspberry Pi](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
 
 ## Requirements
 
 Minimize cost
 
 Allow pictures to be stored individually, but also stiched together automatically in camera
-
-
 
 ## Stretch Goals
 
