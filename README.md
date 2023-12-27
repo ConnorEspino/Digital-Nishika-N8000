@@ -64,6 +64,11 @@ https://github.com/ArduCAM/Arduino/tree/master/ArduCAM/examples/RaspberryPi
 
 [How to use a Raspberry Pi in kiosk mode - Raspberry Pi](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
 
+
+https://www.uctronics.com/lk001.html
+
+https://www.uctronics.com/arducam-m12-lens-raspberry-pi-low-distortion.html
+
 ## Requirements
 
 Minimize cost
