@@ -30,7 +30,7 @@ There are many options for Camera Hats, choosing one other than the one chosen i
 
 ###### Cameras
 
-The video says they use 16Mp cameras, but I could not find a Camarray Hat that included these cameras. 
+The video says they use 16Mp cameras, but I could not find a Camarray Hat that included these cameras.
 
 I saw another example of one of these cameras using USB cameras. This most likely won't work the same way or how we'd want it, but it's worth looking more into other options to see what works best for the best cost.
 
@@ -64,10 +64,17 @@ https://github.com/ArduCAM/Arduino/tree/master/ArduCAM/examples/RaspberryPi
 
 [How to use a Raspberry Pi in kiosk mode - Raspberry Pi](https://www.raspberrypi.com/tutorials/how-to-use-a-raspberry-pi-in-kiosk-mode/)
 
+Lenses
 
-https://www.uctronics.com/lk001.html
+[Arducam M12 Lens Set, Arducam Lens for Raspberry Pi Camera (1/4&#039;) and Arduino, Telephoto, Macro, Wide Angle, Fisheye Lens Kit (10°- 200°) with M12 Lens Holder and Cleaning Cloth, Optical All-in-One](https://www.uctronics.com/lk001.html)
 
-https://www.uctronics.com/arducam-m12-lens-raspberry-pi-low-distortion.html
+[Arducam Low Distortion M12 Lens Set for Rapsberry Pi Cameras and Arduino Cameras](https://www.uctronics.com/arducam-m12-lens-raspberry-pi-low-distortion.html)
+
+Example Code
+
+2MP - https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/RaspberryPi/arducam_ov2640_4cams_capture.cpp
+
+5MP - https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/RaspberryPi/arducam_ov5642_4cams_capture.cpp
 
 ## Requirements
 
