@@ -22,27 +22,17 @@ Overtime, I plan on making a more elegant solution, but in the meantime this is 
 
 I have decided to use a Raspberry Pi Zero for this project because I had one laying around and it is all that is needed for such a low complexity application. The goal is to make a kiosk OS that will work like an actual camera with a simple UI. Eventually I will make it work for the Pi Zero 2 as well.
 
-
-
 The Camera Array was chosen because of its low cost and diverse choice of cameras/lenses available. Buying each camera individually is a pain, but allows for easier replacability in case one stops working or is DOA. 
-
-
 
 There are two choices for Arducams (OV2640 and OV5642). The goal is for both of these to work automatically with the final program. 
 
-
-
 You can also buy better lenses for these Arducam models. Any M12 Lens should work (Don't take my word for it). This will hopefully make the camera suitable for more professional photography. 
-
-
 
 A Screen for the camera has not been chosen at this time, but will be at some point in the future. 
 
 #### Code
 
 I am currently working on a simple FLTK CPP Kiosk program that I can run on the Raspberry pi that will take pictures and store them automatically. The goal is for this program to grow much larger in the future with custom settings and various shooting options. 
-
-
 
 ## Resources
 
@@ -68,7 +58,11 @@ Example Code
 
 2MP - https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/RaspberryPi/arducam_ov2640_4cams_capture.cpp
 
+[Backup Version](./Example Code/arducam_ov2640_4cams_capture.cpp)
+
 5MP - https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/RaspberryPi/arducam_ov5642_4cams_capture.cpp
+
+[Backup Version](./Example Code/arducam_ov5642_4cams_capture.cpp)
 
 ## Requirements
 
