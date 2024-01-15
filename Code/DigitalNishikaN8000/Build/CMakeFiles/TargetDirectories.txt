@@ -1,0 +1,4 @@
+C:/Users/espin/Desktop/Digital Nishika N8000/Code/DigitalNishikaN8000/Build/CMakeFiles/DigitalNishikaN8000.dir
+C:/Users/espin/Desktop/Digital Nishika N8000/Code/DigitalNishikaN8000/Build/CMakeFiles/INSTALL.dir
+C:/Users/espin/Desktop/Digital Nishika N8000/Code/DigitalNishikaN8000/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/espin/Desktop/Digital Nishika N8000/Code/DigitalNishikaN8000/Build/CMakeFiles/ZERO_CHECK.dir

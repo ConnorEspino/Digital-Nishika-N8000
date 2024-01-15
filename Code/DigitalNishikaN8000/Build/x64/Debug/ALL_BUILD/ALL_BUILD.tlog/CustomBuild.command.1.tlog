@@ -1,0 +1,10 @@
+^C:\USERS\ESPIN\DESKTOP\DIGITAL NISHIKA N8000\CODE\DIGITALNISHIKAN8000\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/espin/Desktop/Digital Nishika N8000/Code/DigitalNishikaN8000" "-BC:/Users/espin/Desktop/Digital Nishika N8000/Code/DigitalNishikaN8000/Build" --check-stamp-file "C:/Users/espin/Desktop/Digital Nishika N8000/Code/DigitalNishikaN8000/Build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

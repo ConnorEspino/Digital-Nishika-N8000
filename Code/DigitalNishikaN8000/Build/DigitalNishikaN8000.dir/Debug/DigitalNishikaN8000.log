@@ -1,0 +1,14 @@
+﻿  Automatic MOC and UIC for target DigitalNishikaN8000
+  mocs_compilation_Debug.cpp
+  main.cpp
+  mainwindow.cpp
+  Generating Code...
+C:\Qt\6.6.1\mingw_64\include\QtCore\qcompilerdetection.h(1237,1): error C1189: #error:  "Qt requires a C++17 compiler, and a suitable value for __cplusplus. On MSVC, you must pass the /Zc:__cplusplus option to the compiler."
+  (compiling source file 'DigitalNishikaN8000_autogen/mocs_compilation_Debug.cpp')
+  
+C:\Qt\6.6.1\mingw_64\include\QtCore\qcompilerdetection.h(1237,1): error C1189: #error:  "Qt requires a C++17 compiler, and a suitable value for __cplusplus. On MSVC, you must pass the /Zc:__cplusplus option to the compiler."
+  (compiling source file '../main.cpp')
+  
+C:\Qt\6.6.1\mingw_64\include\QtCore\qcompilerdetection.h(1237,1): error C1189: #error:  "Qt requires a C++17 compiler, and a suitable value for __cplusplus. On MSVC, you must pass the /Zc:__cplusplus option to the compiler."
+  (compiling source file '../mainwindow.cpp')
+  
