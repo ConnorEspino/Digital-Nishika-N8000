@@ -14,7 +14,7 @@ The truth of the matter, is that this camera is extremely simple to make in prac
 
 I found myself wanting to jump in on this project even with only the knowledge of what was included in the video.
 
-Overtime, I plan on making a more elegant solution, but in the meantime this is only a hub for the original code that was included in the video and a list of parts that **(Having done no extensive research)** should work for running it.
+Over time, I plan on making a more elegant solution, but in the meantime this is only a hub for the original code that was included in the video and a list of parts that **(Having done no extensive research)** should work for running it.
 
 ## Info
 
